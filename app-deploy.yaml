@@ -59,6 +59,7 @@ metadata:
     stack.appsody.dev/id: nodejs-express
     stack.appsody.dev/version: 0.2.10
   name: nodejs-sample
+  namespace: nodejs-sample
 spec:
   applicationImage: dev.local/nodejs-sample
   createKnativeService: false
